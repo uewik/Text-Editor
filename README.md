@@ -12,4 +12,5 @@ How to run:
 
 Run MainApp.java file in application package.
 
+
 The front-end of Application is developped by UC San Diego Intermediate Programming MOOC team.
