@@ -1,6 +1,6 @@
 The text editor has the following key features/functionalities:
 
-1.Spelling Suggestion: Misspelled words will be highlighted with red color. When the user right clicks one of the misspelled words, a list of suggested words will be shown and the user can select the right word.
+1.Spelling Suggestion: Misspelled words will be highlighted with red color. In the meanwhile, a list of suggested words will be shown and the user can select the right word.
 
 2.AutoComplete: Whenever the user starts to input a word, a list of suggested words will be shown at the bottom and the user can select the word he/she wants.
 
